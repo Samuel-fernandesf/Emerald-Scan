@@ -226,7 +226,7 @@ Contém funções auxiliares utilizadas pela aplicação.
 
 1.  **Clone o repositório:**
     ```bash
-    https://github.com/Samuel-fernandesf/Emerald-Scan.git
+    git clone https://github.com/Samuel-fernandesf/Emerald-Scan.git
     cd '/app/'
     ```
 2.  **Instale as dependências**
