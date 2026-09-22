@@ -23,6 +23,40 @@ O diferencial está no uso de uma **estratégia de busca binária**, permitindo 
 7. Ao final, o desempenho da busca é avaliado e o jogador recebe uma classificação em estrelas.
 
 ---
+## Screenshots
+
+Abaixo estão algumas telas do **Emerald Scan** durante a execução do jogo.
+
+### Tela inicial
+
+Tela de seleção da dificuldade e início de uma nova partida.
+
+<p align="center">
+  <img src="docs/screenshots/gameStartScreen.png" alt="Tela inicial do Emerald Scan" width="250">
+</p>
+
+### Tela de jogo
+
+Tela principal da partida, onde o Guardião realiza as varreduras e o jogador informa se o setor procurado é maior ou menor que o palpite.
+
+<p align="center">
+  <img src="docs/screenshots/gameScreen.png" alt="Tela de jogo do Emerald Scan" width="250">
+</p>
+
+### Tela de vitória
+
+Tela apresentada após a localização do setor, mostrando o desempenho obtido na partida.
+
+<p align="center">
+  <img src="docs/screenshots/gameOver01.png" alt="Tela de vitória do Emerald Scan" width="250">
+</p>
+
+<p align="center">
+  <img src="docs/screenshots/gameOver02.png" alt="Segunda tela de resultado do Emerald Scan" width="250">
+</p>
+
+
+---
 
 ## Sistema de Busca
 
