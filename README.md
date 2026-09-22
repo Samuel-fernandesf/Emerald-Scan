@@ -110,6 +110,30 @@ As tentativas anteriores são exibidas em uma lista rolável utilizando `FlatLis
 
 ---
 
+## Créditos e recursos
+
+### Música
+
+As músicas utilizadas no projeto foram obtidas através do **OpenGameArt.org**.
+
+**1-ton_fanfare.wav**
+
+* Autor: **Zane Little Music**
+* Licença: **CC0 1.0**
+* Fonte: [OpenGameArt — 1-ton_fanfare](https://opengameart.org/content/1-ton-fanfare-day-10)
+
+**Space Cadet — space_cadet.ogg**
+
+* Autor: **congusbongus**
+* Licença: **OGA-BY 4.0 / CC-BY 4.0**
+* Fonte: [OpenGameArt — Space Cadet](https://opengameart.org/content/space-cadet)
+
+### Pixel Art
+
+As artes em pixel utilizadas no jogo foram **criadas manualmente no Aseprite**, incluindo os sprites e elementos visuais desenvolvidos especificamente para o projeto.
+
+---
+
 ## Estrutura
 
 O projeto foi organizado separando telas, componentes reutilizáveis, componentes específicos do jogo, constantes, utilitários e recursos estáticos.
